@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.container{
+    display: grid;
+    grid-template-columns: repeat(8,auto);
+    background-color: black;
+    opacity: 0.5;
+    font-size: 2rem;
+}
+
+.container a{
+    text-decoration: none; 
+    color: white;
+}
+
+.container a:hover{
+    text-decoration: none; 
+    color: white;
+}
